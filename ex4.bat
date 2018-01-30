@@ -1,0 +1,1 @@
+java -cp "E:\Testingproject\Hybridframeworktetsing\commonjar*;E:\Testingproject\Hybridframeworktetsing\bin" org.testng.TestNG E:\Testingproject\Hybridframeworktetsing\src\driverfactory\jk.xml
